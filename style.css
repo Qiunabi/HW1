@@ -1,0 +1,353 @@
+html{
+  background-color: #edf2c5;
+}
+
+body {
+    background-color: #edf2c5;
+    width: 1280px;
+    height: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+h2{
+  list-style: none;
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900px;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  margin-left: 30px;
+  color: #edf2c5;
+}
+
+h5{
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 3;
+  letter-spacing: normal;
+  text-align: center;
+  color: #edf2c5;
+  align-content: space-between;
+  margin-left: 320px;
+  margin-top: 10px;
+}
+
+.Top{
+    display: flex;
+    align-content: center;
+    margin-bottom: 0px;
+}
+
+.Top-right{
+    max-width:1260px;
+    max-height:103px;
+    margin-left: 469px;
+    margin-bottom: 0px;
+    display: inline-flex;
+    align-items:center;
+}
+
+.Vegetables {
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    margin-left: 160px;
+    color: #778a50;
+}
+
+.fb {
+    display: flex;
+    align-items: flex-end;
+    margin: 60px 0px 18px 0px;
+    width: 25px;
+    height: 25px;
+}
+
+.ig{
+  display: flex;
+  padding-right:10px;
+  border-right: 1px solid #778a50 ;
+  margin: 60px  10px 18px 10px;
+  width: 25px;
+  height: 25px;
+}
+
+.btn_LOGIN_box {
+  height: 25px;
+  width: 60px;
+  margin-right: 10px;
+  margin-top: 42px;
+  border: solid 1px #778a50;
+  border-radius: 3px; 
+}
+
+.LOGIN {
+  margin: 0px;
+  padding: 5px 7px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.btn_JOIN_box {
+  height: 25px;
+  width: 49x;
+  margin-top: 42px;
+  border: solid 1px #778a50;
+  border-radius: 3px; 
+}
+
+.JOIN{
+  margin: 0px;
+  padding: 5px 7px;
+  letter-spacing: normal;
+  text-align: left;
+  color: #778a50;
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.header{
+  width: 940px;
+  height: 44px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-left: 160px;
+  display: flex;
+  align-items: center;
+}
+
+.nav_box{
+  display: flex;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.Home{
+  padding: 10px 30px;
+  width: 51px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal; 
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+
+.About_Us{
+  padding: 10px 30px;
+  width: 80px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+
+.Vegetables_a{
+  padding: 10px 30px;
+  width: 98px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+
+.Online{
+  padding: 10px 30px;
+  width: 56px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+
+.Contact{
+  padding: 10px 30px;
+  width: 69px;
+  height: 23px;
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #edf2c5;
+}
+
+.img_main_pumpkin{
+  margin-top : 20px;
+  margin-left: 160px;
+}
+
+.two-boxs{
+  display: flex;
+  align-items: center;
+}
+
+.L-box{
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-left: 160px;
+  margin-right: 26px;
+  display: flex;
+  align-items: center;
+  margin-top : 30px;
+}
+
+.R-box{
+  width: 444px;
+  height: 45px;
+  border-radius: 3px;
+  background-color: #778a50;
+  margin-right: 160px;
+  margin-left: 26px;
+  display: flex;
+  align-items: center;
+  margin-top : 30px;
+}
+
+.Bottom{
+  display: flex;
+}
+
+.pics{
+  margin-left: 160px;
+  margin-top: 15px;
+  display: flex;
+  margin-left: 160px;
+}
+
+.pepper{
+  padding-right: 12px;
+}
+
+.carrot{
+  padding-right: 12px;
+}
+
+.corn{
+  padding-right: 12px;
+}
+
+.right{
+  margin-top: 15px;
+  margin-left: 40px;
+  width: 429px;
+  height: 140px;
+  background-color: #f7fbda;
+  padding-left: 15px;
+}
+
+.happy{
+  width: 414px;
+  height: 44px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.hr{
+}
+
+.E{
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.P{
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #7d7d7d;
+}
+
+.design{
+  width: 301px;
+  height: 14px;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #edf2c5;
+  align-content: space-between;
+  margin-left: 320px;
+  margin-top: px;
+}
+
+.footer{
+  width:auto;
+  height: 60px;
+  background-color: #778a50;
+  margin-top: 25px;
+  margin-left: 160px;
+  margin-right: 180px;
+  align-content: center;    
+}
